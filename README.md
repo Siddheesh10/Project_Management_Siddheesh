@@ -184,7 +184,6 @@ $3,000**
 2.	Availability of necessary permits and licenses for alcohol sales and event hosting.
 3.	Sufficient interest from the target audience for a pool party event.
 
-**RESPONSIBILITY MATRIX (B)**
 
 ![image](https://github.com/user-attachments/assets/efcac710-e323-45ab-84ee-a0a9320cbb91)
 
@@ -310,20 +309,9 @@ Security Team
 Shafagh	Coordinate with local authority for support and compliance and conduct a detailed analysis of all hazards, suggest a robust plan to curb the risks and ensure welfare of event’sattendees.
 Task	Event Operation manager	Human Resource 
 team	Entertainment coordinator	Beverage Manager	Marketing Team	Security team
- 
-Promotion of Event	 	 	 	 	x	 
-Purchase and Selection of Beverages	 	 	 	x	 	 
-Booking of Event	 	 	x	 	 	 
-Hiring and Management of staff, including Trainings.	 	x	 	 	 	 
-Supply chain and Venue set up	x	 	 	 	 	 
-Safety and Welfare 	 	 	 	 	 	x
-Creation of Promotional Material	 	 	 	 	x	 
-Social media Marketing	 	 	 	 	x	 
-Live Performance Coordinating	 	 	x	 	 	 
-Inventory control for Beverages	 	 	x	 	 	 
-Engagement and Interaction with Customers	 	 	 	 	x	 
-Management of Event Schedules	x	 	 	 	 	 
-Team coordination	x	 	 	 	 	 
+
+![image](https://github.com/user-attachments/assets/d0abfca7-e7da-40f5-9871-4d03010cd3b4)
+
  
 WORK BREAKDOWN STRUCTURE (C)
 Appendix C, the Work Breakdown Structure, will divide the event into smaller, more doable jobs. The tasks and their dependencies that contain a logical correlation for the project execution to be completed in an efficient and organized manner will then be identified by the WBS. Below is an example of a breakdown.
