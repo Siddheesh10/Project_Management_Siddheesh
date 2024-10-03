@@ -183,7 +183,7 @@ $3,000**
 1.	Favorable weather conditions on the day of the event.
 2.	Availability of necessary permits and licenses for alcohol sales and event hosting.
 3.	Sufficient interest from the target audience for a pool party event.
- 
+
 **RESPONSIBILITY MATRIX (B)**
 
 ![image](https://github.com/user-attachments/assets/efcac710-e323-45ab-84ee-a0a9320cbb91)
