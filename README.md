@@ -1,8 +1,9 @@
 # Project_Management_Siddheesh
 
 **HARMONY HAVEN: WHERE FUN BEGINS**
-_
-Team Members_
+
+
+**Team Members**
 Viknesh Velmurugan (2309201)
 Siddheesh Vyas (2242827)
 Akinbusuyi Helen (2115754)
