@@ -188,50 +188,15 @@ $3,000**
 ![image](https://github.com/user-attachments/assets/efcac710-e323-45ab-84ee-a0a9320cbb91)
 
 **Explanation of Roles**
+
  The responsibility matrix, as shown in Appendix B, clearly identifies roles and responsibilities with each activity. This Matrix includes the planning and execution of the event.
 Function	Name 	Role
 
 
 
-Event Operation Manager	
+![image](https://github.com/user-attachments/assets/88ae8ca3-6a87-4b97-a447-1a698fc3e015)
 
 
-Viknesh	Coordinate all team members to drive performance and manage the event successfully.
-
-
-
-Human Resource team	
-
-
-
-Shafagh	In-charge of the staff work scheduling, and ensures each employee involved have competent skills before the event.
-
-
-Entertainment Coordinator	
-
-Vyas	In-charge of the program of the event including inventory control
-
-
-Beverage Manager	
-
-Harshit	Oversee all aspects of the beverage delivery and selection during the event. 
-
-
-
-Marketing Team	
-
-
-Helen	
-Disseminate the event to ensure full participation and attendance.
-
-
-
-
-Security Team	
-
-
-
-Shafagh	Coordinate with local authority for support and compliance and conduct a detailed analysis of all hazards, suggest a robust plan to curb the risks and ensure welfare of event’s attendees.
 •	Marketing and promotion (Marketing Team)
 •	Securing DJ entertainment (Entertainment Coordinator)
 •	Bar inventory management and procurement (Beverage Manager)
