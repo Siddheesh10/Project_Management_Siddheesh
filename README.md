@@ -211,6 +211,7 @@ Function	Name 	Role
 
  
 **WORK BREAKDOWN STRUCTURE (C)**
+
  Appendix C, the Work Breakdown Structure, will divide the event into smaller, more doable jobs. The tasks and their dependencies that contain a logical correlation for the project execution to be completed in an efficient and organized manner will then be identified by the WBS. Below is an example of a breakdown.
 
 **Main Task:** Organize Adult Pool Party
