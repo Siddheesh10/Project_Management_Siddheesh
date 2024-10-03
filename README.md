@@ -199,9 +199,6 @@ $3,000**
 Function	Name 	Role
 
 
-
-![image](https://github.com/user-attachments/assets/88ae8ca3-6a87-4b97-a447-1a698fc3e015)
-
 •	Marketing and promotion (Marketing Team)
 •	Securing DJ entertainment (Entertainment Coordinator)
 •	Bar inventory management and procurement (Beverage Manager)
