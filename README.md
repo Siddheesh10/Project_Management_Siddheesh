@@ -18,33 +18,61 @@ Table of Contents
 
 
 HARMONY HAVEN: WHERE FUN BEGINS	1
+
 EXECUTIVE SUMMARY	3
+
 KEY ELEMENTS	4
+
 Energetic Live DJ	4
+
 Inviting Bar Service	4
+
 Poolside Relaxation	4
+
 INTRODUCTION	5
+
 Harmony Haven (Concept)	5
+
 Adult Pool Party Event (Overview)	5
+
 PROJECT SCOPE STATEMENT (APPENDIX A)	6
+
 Objectives	6
+
 Deliverables	6
+
 Constraints	6
+
 Assumptions	6
+
 RESPONSIBILITY MATRIX (B)	7
+
 WORK BREAKDOWN STRUCTURE (C)	8
+
 Main Task: Organize Adult Pool Party	8
+
 Sub-task 1: Develop Marketing Strategy (Marketing Team)	8
+
 Sub-task 2: Secure DJ Entertainment (Entertainment Coordinator)	8
+
 Marketing Plan	8
+
 Definition of Target Audience	8
+
 Multi-Channel Marketing Strategy	9
+
 Budget Development	10
+
 Security Plan: Ensuring a Safe and Enjoyable Experience	11
+
 Contingency Plans: Adapting to Challenges	11
+
 CONCLUSION	13
+
 APPENDICES	14
+
 REFERENCES	15
+
 
  
 EXECUTIVE SUMMARY
