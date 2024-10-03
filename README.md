@@ -272,27 +272,33 @@ As stated, a successful marketing plan is important to bring a good number of vi
  2.	Low Ticket Sales: Plan late-booking sales strategies, offering last-minute discounts or promotions on social media platforms. Also engage local businesses in cross-promoting the event and offering ticket discounts or special packages. Offer joint marketing to secure new audiences.
  3.	Overselling Tickets: If ticket sales exceed expectations, have a plan to manage capacity limitations safely. This might involve implementing a timed entry system or designated areas to regulate guest flow.
  
- 
-**CONCLUSION**
  
+ **CONCLUSION**
+
  This proposal culminates in an elaborate plan for the hosting of an adult pool party with a DJ and bar at Harmony Haven. With the strategy put forward in this document, you can create a fun, lively, and well-attended event that makes Harmony Haven the must-visit destination for entertainment for adults in Vancouver.
- 
- 
+
+
 **APPENDICES**
 
 Appendix A: Scope Statement - Detailing the objectives, deliverables, constraints, and assumptions for the adult pool party event.
 Appendix B: Responsibility Matrix - Assigning clear roles and responsibilities for each task involved in planning and executing the event.
 Appendix C: Work Breakdown Structure (WBS) - Breaking down the event into smaller, manageable tasks with a clear sequence and dependencies.
- 
- 
+
+
 **REFERENCES**
 
 **Event Planning Resources:**
+
 • Eventbrite. (https://www.eventbrite.com/).
+
 • MeetingsNet. (https://www.meetingsnet.com/).
+
 • Social Media Examiner. (https://www.socialmediaexaminer.com/).
 
+
 **Hospitality Industry Resources:**
+
 • International Nightlife Association. (https://www.nightlifeinternational.org/en/).
+
 • Canadian Restaurant and Foodservices Association. (n.d.). In Wikipedia. https://en.wikipedia.org/wiki/Canadian_Restaurant_and_Foodservices_Association 
 
