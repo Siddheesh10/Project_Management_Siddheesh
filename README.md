@@ -210,19 +210,24 @@ Function	Name 	Role
 ![image](https://github.com/user-attachments/assets/d0abfca7-e7da-40f5-9871-4d03010cd3b4)
 
  
-WORK BREAKDOWN STRUCTURE (C)
-Appendix C, the Work Breakdown Structure, will divide the event into smaller, more doable jobs. The tasks and their dependencies that contain a logical correlation for the project execution to be completed in an efficient and organized manner will then be identified by the WBS. Below is an example of a breakdown.
-Main Task: Organize Adult Pool Party
-Sub-task 1: Develop Marketing Strategy (Marketing Team)
-1.	Develop target audience personas
-2.	Identify relevant marketing channels (social breakdown. Call publications, event websites).
-3.	Design eye-catching promotional materials (posters, flyers, digital ads)
-4.	Craft engaging event descriptions and social media posts
-Sub-task 2: Secure DJ Entertainment (Entertainment Coordinator)
-1.	Research and shortlist potential DJs based on genre, experience, and audience appeal.
-2.	Negotiate fees and contracts with the chosen DJ.
-3.	Confirm technical requirements and equipment needs.
-Marketing Plan
+**WORK BREAKDOWN STRUCTURE (C)**
+ Appendix C, the Work Breakdown Structure, will divide the event into smaller, more doable jobs. The tasks and their dependencies that contain a logical correlation for the project execution to be completed in an efficient and organized manner will then be identified by the WBS. Below is an example of a breakdown.
+
+**Main Task:** Organize Adult Pool Party
+
+**Sub-task 1:** Develop Marketing Strategy (Marketing Team)
+ 1.	Develop target audience personas
+ 2.	Identify relevant marketing channels (social breakdown. Call publications, event websites).
+ 3.	Design eye-catching promotional materials (posters, flyers, digital ads)
+ 4.	Craft engaging event descriptions and social media posts
+
+**Sub-task 2:** Secure DJ Entertainment (Entertainment Coordinator)
+ 1.	Research and shortlist potential DJs based on genre, experience, and audience appeal.
+ 2.	Negotiate fees and contracts with the chosen DJ.
+ 3.	Confirm technical requirements and equipment needs.
+
+**Marketing Plan**
+
 As stated, a successful marketing plan is important to bring a good number of visitors and hype in the market for the launch of Harmony Haven. Below are some key elements of the plan:
 Definition of Target Audience
 Identify your perfect attendees. Consider demographics like age range (likely 22-50), interests (entertainment, socializing, music), and location (Vancouver residents seeking new nightlife experiences). Understanding their social preferences will guide your marketing approach.
