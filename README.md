@@ -196,84 +196,16 @@ Function	Name 	Role
 
 ![image](https://github.com/user-attachments/assets/88ae8ca3-6a87-4b97-a447-1a698fc3e015)
 
-
 •	Marketing and promotion (Marketing Team)
 •	Securing DJ entertainment (Entertainment Coordinator)
 •	Bar inventory management and procurement (Beverage Manager)
 •	Staffing recruitment, training, and scheduling (Human Resources)
 •	Event logistics and setup (Event Operations Manager)
 •	Security and crowd management (Security Team)
-RACI MATRIX
-Task	Viknesh
-(Event Operation Manager)	Shafagh
-(HR Team)	Vyas
-(Entertainment Coordinator)	Harshit
-(Beverage Manager)	Helen
-(Marketing Team	Shafagh (Security Team)
-Promotion of Event	A	I	I	I	R	I
-Purchase and Selection of Beverages	I	I	I	A	I	I
-Booking of Event	A	I	R	I	I	I
-Hiring and Management of staff including trainings.	I	A	I	I	I	I
-Supply chain and Venue setup	A	I	C	I	I	I
-Safety and Welfare	I	I	I	I	I	A
-Creation of Promotional Material	I	I	I	I	A	I
-Social Media Marketing	I	I	I	I	A	I
-Live Performance Coordinating	I	I	A	I	I	I
-Inventory Control for Beverages	I	I	I	A	I	I
-Engagement and Interaction with Customers	I	I	I	I	A	I
-Management of Event Schedules	A	I	I	I	I	I
-Team Coordination	A	I	I	I	I	I
 
-RACI
-R: Responsible- The ones who perform the work that allows to achieve goals.	A: Accountable- The responsible person for the correctness and completion of task.
-C: Consulted-People who give advice on tasks.	I: Informed- Those who are kept up to date about current state.
+![image](https://github.com/user-attachments/assets/4c07507c-818d-4447-8f9f-0b000836d366)
 
-Function	Name 	Role
- 
- 
- 
-Event Operation Manager	 
- 
- 
-Viknesh	Coordinate all team members to drive performance and manage the event successfully.
- 
- 
- 
-Human Resource 
-team	 
- 
- 
- 
-Shafagh	In-charge of the staff work scheduling, and ensures each employee involved have competent skills before the event.
- 
- 
-Entertainment Coordinator	 
- 
-Siddheesh	In-charge of the program of the event including inventory control
- 
- 
-Beverage Manager	 
- 
-Harshit	Oversee all aspects of the beverage delivery and selection during the event. 
- 
- 
- 
-Marketing Team	 
- 
- 
-Helen	 
-Disseminate the event to ensure full participation and attendance.
- 
- 
- 
- 
-Security Team	 
- 
- 
- 
-Shafagh	Coordinate with local authority for support and compliance and conduct a detailed analysis of all hazards, suggest a robust plan to curb the risks and ensure welfare of event’sattendees.
-Task	Event Operation manager	Human Resource 
-team	Entertainment coordinator	Beverage Manager	Marketing Team	Security team
+![image](https://github.com/user-attachments/assets/0bde7f7e-3360-4498-b098-0dfca0578eff)
 
 ![image](https://github.com/user-attachments/assets/d0abfca7-e7da-40f5-9871-4d03010cd3b4)
 
