@@ -230,55 +230,69 @@ Function	Name 	Role
 **Marketing Plan**
 
 As stated, a successful marketing plan is important to bring a good number of visitors and hype in the market for the launch of Harmony Haven. Below are some key elements of the plan:
-Definition of Target Audience
-Identify your perfect attendees. Consider demographics like age range (likely 22-50), interests (entertainment, socializing, music), and location (Vancouver residents seeking new nightlife experiences). Understanding their social preferences will guide your marketing approach.
-Multi-Channel Marketing Strategy
-Engage online and offline channels cohesively to reach your target audience. Below are some impactful options:
-1	Social Media Marketing: Drive engagement on Instagram and Facebook by creating a specific event page. Users then view advertisements based on their interests and demographics. Engage local influencers in your event by inviting them to be a part, and instruct them on how to share with their followers. 
-2.	Local Event Listings and Publications: Get listed on popular event websites and apps frequented by your target audience. Release press releases or short event descriptions in local publications and nightlife guides.
-3.	Get Attention with Promotional Materials: Create posters, flyers, and ads online that get attention. The photographs must be of high quality and show the pool, the vibrant atmosphere, and DJs. Note the key selling points, such as live music, drink specials, and exclusive privileges at Harmony Haven.
-4.	Public Relations: Contact as many local media outlets, bloggers, or event reviewers to get coverage before the event. Grant exclusive interviews, press kits, or complimentary media passes to generate interest and good exposure.
-5.	Promotional Offers: Offer early-bird discounts or special package deals to encourage ticket purchases. Offer tickets with drink vouchers or merchandise for added value and early commitment.
-6.	Consistent Messaging: Ensure consistency in the brand tone and message through all marketing. Emphasize the fun, social, and classy atmosphere that Harmony Haven provides.
-Budget Development
-A detailed budget ensures responsible financial management and helps avoid last-minute surprises. Here are key cost categories to consider:
-1. Marketing and Promotion: Allow money for printing fliers and posters, social media advertising campaigns, and all possible cooperation with influencers.
-2. DJ Fees and Entertainment Costs: Add to the list the performance fee of the DJ, equipment rentals that may be necessary for the sound or lights, and also travel or accommodation costs if called for.
-3. Bar Supplies: Budget for the cost of alcoholic beverages, soft drinks, ice, cups, and other barware needed to serve guests throughout the event.
-4. Staffing Costs: Hire sufficient staff to tend bar, guard the event, set up and clean up the event, and assist guests. Consider wages, taxes, and overtime.
-5. Facility Rental Fees: If leasing a particular area within Harmony Haven, include the associated rental fees.
-6. Miscellaneous: Include everything else: permits, insurance for the event, first-aid supplies, any miscellaneous items needed to carry out the event smoothly.
-By creating a realistic budget and tracking expenses, you can ensure the event stays within financial constraints.
-Security Plan: Ensuring a Safe and Enjoyable Experience 
-A comprehensive security plan is paramount for safeguarding guests and staff during the event. Here are key measures to implement:
-1. Security Professionals: Hire licensed security guards to patrol the venue, manage crowd control, and keep the environment safe.
-2. Age Verification Policy: Institute a clear age verification process at the entrance to enforce the 19-plus age requirement strictly. Use ID scanners or trained personnel to verify the identity.
-3. Specifically Designed First Aid Area: An area properly provided with a first-aid kit and immediate access to medical personnel to treat minor injuries or casualties in case of an emergency.
-4. Emergency Response Plans: Develop clear plans of handling emergencies, such as medical situations, security breaches, or inclement weather. Ensure staff is educated on emergency procedures and evacuation.
-5. Communicate and Collaborate: To facilitate coordinated reactions to any potential issues, keep lines of communication open between the venue management, event personnel, and security personnel.
-Contingency Plans: Adapting to Challenges
-Even the most meticulous detailed plans may face unforeseen circumstances. Developing contingency plans allows you to adapt effectively and minimize disruptions. Here are some potential challenges to consider:
-1.	Inclement Weather: Have a backup plan in case of rain or extreme weather conditions. This could involve moving the event indoors to a designated space within Harmony Haven or offering alternative entertainment options. Ensure guests are informed promptly of any necessary changes.
-2.	Low Ticket Sales: Plan late-booking sales strategies, offering last-minute discounts or promotions on social media platforms. Also engage local businesses in cross-promoting the event and offering ticket discounts or special packages. Offer joint marketing to secure new audiences.
-3.	Overselling Tickets: If ticket sales exceed expectations, have a plan to manage capacity limitations safely. This might involve implementing a timed entry system or designated areas to regulate guest flow.
+
+**Definition of Target Audience**
+
+ Identify your perfect attendees. Consider demographics like age range (likely 22-50), interests (entertainment, socializing, music), and location (Vancouver residents seeking new nightlife experiences). Understanding their social preferences will guide your marketing approach.
+
+**Multi-Channel Marketing Strategy**
+
+ Engage online and offline channels cohesively to reach your target audience. Below are some impactful options:
+ **1	Social Media Marketing:** Drive engagement on Instagram and Facebook by creating a specific event page. Users then view advertisements based on their interests and demographics. Engage local influencers in your event by inviting them to be a part, and instruct them on how to share with their followers. 
+ **2.	Local Event Listings and Publications:** Get listed on popular event websites and apps frequented by your target audience. Release press releases or short event descriptions in local publications and nightlife guides.
+ **3.	Get Attention with Promotional Materials:** Create posters, flyers, and ads online that get attention. The photographs must be of high quality and show the pool, the vibrant atmosphere, and DJs. Note the key selling points, such as live music, drink specials, and exclusive privileges at Harmony Haven.
+ **4.	Public Relations:** Contact as many local media outlets, bloggers, or event reviewers to get coverage before the event. Grant exclusive interviews, press kits, or complimentary media passes to generate interest and good exposure.
+ **5.	Promotional Offers:** Offer early-bird discounts or special package deals to encourage ticket purchases. Offer tickets with drink vouchers or merchandise for added value and early commitment.
+ **6.	Consistent Messaging:** Ensure consistency in the brand tone and message through all marketing. Emphasize the fun, social, and classy atmosphere that Harmony Haven provides.
+
+**Budget Development**
+
+ A detailed budget ensures responsible financial management and helps avoid last-minute surprises. Here are key cost categories to consider:
+ **1. Marketing and Promotion:** Allow money for printing fliers and posters, social media advertising campaigns, and all possible cooperation with influencers.
+ **2. DJ Fees and Entertainment Costs:** Add to the list the performance fee of the DJ, equipment rentals that may be necessary for the sound or lights, and also travel or accommodation costs if called for.
+ **3. Bar Supplies:** Budget for the cost of alcoholic beverages, soft drinks, ice, cups, and other barware needed to serve guests throughout the event.
+ **4. Staffing Costs:** Hire sufficient staff to tend bar, guard the event, set up and clean up the event, and assist guests. Consider wages, taxes, and overtime.
+ **5. Facility Rental Fees:** If leasing a particular area within Harmony Haven, include the associated rental fees.
+ **6. Miscellaneous:** Include everything else: permits, insurance for the event, first-aid supplies, any miscellaneous items needed to carry out the event smoothly.
+
+ By creating a realistic budget and tracking expenses, you can ensure the event stays within financial constraints.
+
+**Security Plan: Ensuring a Safe and Enjoyable Experience**
+
+ A comprehensive security plan is paramount for safeguarding guests and staff during the event. Here are key measures to implement:
+ **1. Security Professionals:** Hire licensed security guards to patrol the venue, manage crowd control, and keep the environment safe.
+ **2. Age Verification Policy:** Institute a clear age verification process at the entrance to enforce the 19-plus age requirement strictly. Use ID scanners or trained personnel to verify the identity.
+ **3. Specifically Designed First Aid Area:** An area properly provided with a first-aid kit and immediate access to medical personnel to treat minor injuries or casualties in case of an emergency.
+ **4. Emergency Response Plans:** Develop clear plans of handling emergencies, such as medical situations, security breaches, or inclement weather. Ensure staff is educated on emergency procedures and evacuation.
+ **5. Communicate and Collaborate:** To facilitate coordinated reactions to any potential issues, keep lines of communication open between the venue management, event personnel, and security personnel.
+
+**Contingency Plans: Adapting to Challenges**
+ Even the most meticulous detailed plans may face unforeseen circumstances. Developing contingency plans allows you to adapt effectively and minimize disruptions. Here are some potential challenges to consider:
+ 1.	Inclement Weather: Have a backup plan in case of rain or extreme weather conditions. This could involve moving the event indoors to a designated space within Harmony Haven or offering alternative entertainment options. Ensure guests are informed promptly of any necessary changes.
+ 2.	Low Ticket Sales: Plan late-booking sales strategies, offering last-minute discounts or promotions on social media platforms. Also engage local businesses in cross-promoting the event and offering ticket discounts or special packages. Offer joint marketing to secure new audiences.
+ 3.	Overselling Tickets: If ticket sales exceed expectations, have a plan to manage capacity limitations safely. This might involve implementing a timed entry system or designated areas to regulate guest flow.
  
  
-CONCLUSION
-This proposal culminates in an elaborate plan for the hosting of an adult pool party with a DJ and bar at Harmony Haven. With the strategy put forward in this document, you can create a fun, lively, and well-attended event that makes Harmony Haven the must-visit destination for entertainment for adults in Vancouver.
+**CONCLUSION**
+ 
+ This proposal culminates in an elaborate plan for the hosting of an adult pool party with a DJ and bar at Harmony Haven. With the strategy put forward in this document, you can create a fun, lively, and well-attended event that makes Harmony Haven the must-visit destination for entertainment for adults in Vancouver.
  
  
-APPENDICES
+**APPENDICES**
+
 Appendix A: Scope Statement - Detailing the objectives, deliverables, constraints, and assumptions for the adult pool party event.
 Appendix B: Responsibility Matrix - Assigning clear roles and responsibilities for each task involved in planning and executing the event.
 Appendix C: Work Breakdown Structure (WBS) - Breaking down the event into smaller, manageable tasks with a clear sequence and dependencies.
  
  
-REFERENCES
-Event Planning Resources:
+**REFERENCES**
+
+**Event Planning Resources:**
 • Eventbrite. (https://www.eventbrite.com/).
 • MeetingsNet. (https://www.meetingsnet.com/).
 • Social Media Examiner. (https://www.socialmediaexaminer.com/).
-Hospitality Industry Resources:
+
+**Hospitality Industry Resources:**
 • International Nightlife Association. (https://www.nightlifeinternational.org/en/).
 • Canadian Restaurant and Foodservices Association. (n.d.). In Wikipedia. https://en.wikipedia.org/wiki/Canadian_Restaurant_and_Foodservices_Association 
 
