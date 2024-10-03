@@ -186,6 +186,8 @@ $3,000**
  
 **RESPONSIBILITY MATRIX (B)**
 
+![image](https://github.com/user-attachments/assets/efcac710-e323-45ab-84ee-a0a9320cbb91)
+
 **Explanation of Roles**
  The responsibility matrix, as shown in Appendix B, clearly identifies roles and responsibilities with each activity. This Matrix includes the planning and execution of the event.
 Function	Name 	Role
