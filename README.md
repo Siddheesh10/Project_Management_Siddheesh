@@ -4,12 +4,18 @@
 
 
 **Team Members**
-Viknesh Velmurugan (2309201)
-Siddheesh Vyas (2242827)
-Akinbusuyi Helen (2115754)
-Shafagh Khani (2019342)
-Harshit Budhiraja (2232952)
-Date: June 21, 2024
+
+Viknesh Velmurugan
+
+Siddheesh Vyas
+
+Akinbusuyi Helen
+
+Shafagh Khani
+
+Harshit Budhiraja
+
+**Date: June 21, 2024**
 
 
  
