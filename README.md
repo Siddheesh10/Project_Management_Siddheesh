@@ -14,7 +14,7 @@ Date: June 21, 2024
 
  
  
-Table of Contents
+**Table of Contents**
 
 
 HARMONY HAVEN: WHERE FUN BEGINS	1
@@ -51,9 +51,9 @@ WORK BREAKDOWN STRUCTURE (C)	8
 
 Main Task: Organize Adult Pool Party	8
 
-Sub-task 1: Develop Marketing Strategy (Marketing Team)	8
+ Sub-task 1: Develop Marketing Strategy (Marketing Team)	8
 
-Sub-task 2: Secure DJ Entertainment (Entertainment Coordinator)	8
+ Sub-task 2: Secure DJ Entertainment (Entertainment Coordinator)	8
 
 Marketing Plan	8
 
@@ -83,15 +83,15 @@ REFERENCES	15
 
 **KEY ELEMENTS**
 
-Energetic Live DJ
+**Energetic Live DJ**
 
  A good DJ will create a lively musical atmosphere, keeping guests active and dancing throughout the event. The choice of the DJ should meet the interests of the target audience, including possibly popular remixes, dance floor classics, and upbeat hits of the day. Live music brings energy to the event, energizing each person and promoting interaction with other participants.
 
-Inviting Bar Service
+**Inviting Bar Service**
 
  A well-stocked bar, consisting of drinks—both alcoholic and non-alcoholic—will be sure to meet the demands of a guest who comes to quench his or her thirst and satisfy their varied tastes. The selection can be done from the popular cocktails made with premium ingredients and craft beers that represent brews of Vancouver, non-alcoholic drinks, and mocktails, refreshers, juices, and bottled water. This caters to more people and ensures that everyone has tasty refreshments for the rest of the evening.
 
-Poolside Relaxation
+**Poolside Relaxation**
 
  Unimpeded access to the pool area allows attendees to cool off, socialize by the water, or simply soak up the vibrant atmosphere. Beautiful poolside furniture—loungers, cabanas—can augment the experience and have guests relax and socialize. This results in a multi-dimensional environment whereby guests can participate in different activities or simply relax in a fashionable and comfortable set-up.
 A high-level timeline on planning and execution will be presented for smooth and memorable activities for all attendees. 
@@ -116,12 +116,13 @@ A high-level timeline on planning and execution will be presented for smooth and
 2.	To curate a fun and social gathering experience with live DJ music, refreshing drinks, and pool access.
 3.	To generate positive brand awareness and position Harmony Haven as the go-to location for future social events.
 
-Deliverables
+**Deliverables**
 
 1.	A successful and well-attended pool party event.
 2.	Positive guest feedback and reviews through online platforms and surveys.
 3.	Increased brand awareness for Harmony Haven measured through social media engagement and website traffic.
-Time Estimation
+
+**Time Estimation**
 
 **1.	Venue Preparation:
 2 weeks**
@@ -133,8 +134,8 @@ Reasoning: Setting up the venue requires several detailed tasks such as setting 
 
 Reasoning: Effective marketing campaigns require careful planning, coordination, and execution. Four weeks allows time to strategize, create compelling content, and execute multi-channel marketing initiatives. It allows for proper research and targeting of demographics or interest groups to help achieve reach and engagement. In addition, a longer timeframe provides room for adjustments and optimizations based on feedback and performance metrics that help ensure the effectiveness of marketing efforts in driving attendance to the event.
 
-3.	Coordination of Entertainment:
-3 weeks
+**3.	Coordination of Entertainment:
+3 weeks**
 
 Reasoning: Suitable entertainment, such as a DJ or live performers, requires research, negotiation, and logistical coordination. Three weeks is enough time to identify potential options for entertainment, negotiate contracts, and finalize details. It allows one to be efficient yet thorough in ensuring appropriate entertainment is sourced within a reasonable amount of time. Further, the allocation of time for coordination of entertainment allows sufficient time for scheduling and appropriately slotting the entertainment into the overall program for the event.
 
@@ -149,31 +150,44 @@ Reasoning: Implementing safety protocols and hiring licensed security profession
 
 **Cost Estimation**
 
-Due to factors such as location, size, amenities, and exclusivity. A venue that comes with a poolside area, sufficient space for guests, and amenities and facilities for hosting an event would command a higher rental fee. Additionally, the number of event venues and the demand for such venues in the area might also drive up the prices of rentals. That is why the budget allocation of $10,000 will be able to secure a desirable place that would fit the event's theme and atmosphere.
+ Due to factors such as location, size, amenities, and exclusivity. A venue that comes with a poolside area, sufficient space for guests, and amenities and facilities for hosting an event would command a higher rental fee. Additionally, the number of event venues and the demand for such venues in the area might also drive up the prices of rentals. That is why the budget allocation of $10,000 will be able to secure a desirable place that would fit the event's theme and atmosphere.
 Setup costs would include the cost of the actual setup of the venue with furniture, lighting, sound, and other elements of decoration that may enhance the ambience of the place and the mood of its guests. This may include the cost of labor for the setup and installation. That is why the budget allocation would provide enough funds to set up and furnish the place properly, decorate it with elements that would complement its design, and equip it with the necessary and appropriate amenities that would increase its value and help in its aesthetic and functional appeal, thus contributing to giving guests a memorable experience. Marketing and Promotion: $5,000
-Advertising Costs
-The multi-channel marketing campaigns for the promotion of the event require spending on various advertising channels such as social media, online ads, print media, and promotional materials. The budget includes the expenses incurred in graphic designing, placing ads, sponsored posts, and other advertising initiatives for making this a successful event.\nContent Creation: The creation of good engaging content, such as promotional videos, graphics, and event descriptions, requires resources in the form of professional photography, videography, and copywriting services. The budget allocation will allow the production of high-quality content for effectively communicating the value proposition of the event and motivating audience engagement and participation.
- Entertainment Fees:
-$3,000
+
+**Advertising Costs**
+
+ The multi-channel marketing campaigns for the promotion of the event require spending on various advertising channels such as social media, online ads, print media, and promotional materials. The budget includes the expenses incurred in graphic designing, placing ads, sponsored posts, and other advertising initiatives for making this a successful event.\nContent Creation: The creation of good engaging content, such as promotional videos, graphics, and event descriptions, requires resources in the form of professional photography, videography, and copywriting services. The budget allocation will allow the production of high-quality content for effectively communicating the value proposition of the event and motivating audience engagement and participation.
+
+**Entertainment Fees:
+$3,000**
+
 Entertainment Costs: The securing of suitable entertainment, such as DJs or live performers, comes with expenses associated with performance fees, equipment rentals, and transportation. The budget covers fees for booking entertainment that makes the atmosphere lively, enhancing the mood of guests to be entertained and involved throughout the event.\n4. Staffing Costs: $7,000
 Wages and Salaries
 Expenses associated with recruiting, hiring, and compensating event staff consist of employees such as bartenders, servers, security personnel, and event coordinators. The budget allocation includes wages, salaries, and other costs such as payroll taxes, employee benefits, and training programs. Sufficient staffing assures the smooth operation of the event, and guests have a nice time.
-Security Services: 
-$2,000
-Security Personnel: This category would include hiring licensed security professionals to patrol the venue and enforce safety protocols and handle any safety incidents or disruptions to ensure guest safety and well-being. The allocated budget covers fees for hiring security personnel and the implementation of any security measures to mitigate risks and keep the environment of the event secure.
-Miscellaneous Expenses:
-$3,000
-Miscellaneous expenses cover many other costs that are attributed to event planning and execution. This includes permits, insurance, first-aid supplies, and other unlisted expenses. The allocated budget provides flexibility to take care of all those unexpected costs and contingencies to ensure that all aspects of the event are adequately addressed and that there are no last-minute surprises to compromise the smooth running of the event.
-Constraints
-Budget limitations for marketing, DJ fees, bar supplies, staffing, and venue rental (if applicable). Time constraints to plan and execute the event within a predefined timeframe. Venue limitations are based on available space, resources, and capacity restrictions.
-Assumptions
+
+**Security Services: 
+$2,000**
+
+ Security Personnel: This category would include hiring licensed security professionals to patrol the venue and enforce safety protocols and handle any safety incidents or disruptions to ensure guest safety and well-being. The allocated budget covers fees for hiring security personnel and the implementation of any security measures to mitigate risks and keep the environment of the event secure.
+
+**Miscellaneous Expenses:
+$3,000**
+
+ Miscellaneous expenses cover many other costs that are attributed to event planning and execution. This includes permits, insurance, first-aid supplies, and other unlisted expenses. The allocated budget provides flexibility to take care of all those unexpected costs and contingencies to ensure that all aspects of the event are adequately addressed and that there are no last-minute surprises to compromise the smooth running of the event.
+
+**Constraints**
+
+ Budget limitations for marketing, DJ fees, bar supplies, staffing, and venue rental (if applicable). Time constraints to plan and execute the event within a predefined timeframe. Venue limitations are based on available space, resources, and capacity restrictions.
+
+**Assumptions**
+
 1.	Favorable weather conditions on the day of the event.
 2.	Availability of necessary permits and licenses for alcohol sales and event hosting.
 3.	Sufficient interest from the target audience for a pool party event.
  
-RESPONSIBILITY MATRIX (B)
-Explanation of Roles
-The responsibility matrix, as shown in Appendix B, clearly identifies roles and responsibilities with each activity. This Matrix includes the planning and execution of the event.
+**RESPONSIBILITY MATRIX (B)**
+
+**Explanation of Roles**
+ The responsibility matrix, as shown in Appendix B, clearly identifies roles and responsibilities with each activity. This Matrix includes the planning and execution of the event.
 Function	Name 	Role
 
 
