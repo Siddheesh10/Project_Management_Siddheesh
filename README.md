@@ -75,18 +75,26 @@ REFERENCES	15
 
 
  
-EXECUTIVE SUMMARY
-The ambitious "Harmony Haven" entertainment project is ready to transform Vancouver's nightlife style. The aim is to provide a unique combination of DJ, pool party, and bar experiences to adults in search of sophisticated and immersive entertainment. Further details contained in the proposal include market analysis for upscale nightlife venues in Vancouver, the venue concept that outlines the main features and provisions of Harmony Haven, and recommendations on how to be successful. This will make Harmony Haven the hottest place to be and the most sought-after destination in the city of Vancouver.
- 
- 
-KEY ELEMENTS
+**EXECUTIVE SUMMARY**
+
+ The ambitious "Harmony Haven" entertainment project is ready to transform Vancouver's nightlife style. The aim is to provide a unique combination of DJ, pool party, and bar experiences to adults in search of sophisticated and immersive entertainment. Further details contained in the proposal include market analysis for upscale nightlife venues in Vancouver, the venue concept that outlines the main features and provisions of Harmony Haven, and recommendations on how to be successful. This will make Harmony Haven the hottest place to be and the most sought-after destination in the city of Vancouver.
+
+
+
+**KEY ELEMENTS**
+
 Energetic Live DJ
+
 A good DJ will create a lively musical atmosphere, keeping guests active and dancing throughout the event. The choice of the DJ should meet the interests of the target audience, including possibly popular remixes, dance floor classics, and upbeat hits of the day. Live music brings energy to the event, energizing each person and promoting interaction with other participants.
+
 Inviting Bar Service
 A well-stocked bar, consisting of drinks—both alcoholic and non-alcoholic—will be sure to meet the demands of a guest who comes to quench his or her thirst and satisfy their varied tastes. The selection can be done from the popular cocktails made with premium ingredients and craft beers that represent brews of Vancouver, non-alcoholic drinks, and mocktails, refreshers, juices, and bottled water. This caters to more people and ensures that everyone has tasty refreshments for the rest of the evening.
+
 Poolside Relaxation
 Unimpeded access to the pool area allows attendees to cool off, socialize by the water, or simply soak up the vibrant atmosphere. Beautiful poolside furniture—loungers, cabanas—can augment the experience and have guests relax and socialize. This results in a multi-dimensional environment whereby guests can participate in different activities or simply relax in a fashionable and comfortable set-up.
 A high-level timeline on planning and execution will be presented for smooth and memorable activities for all attendees. 
+
+
 INTRODUCTION
 Harmony Haven (Concept)
 Harmony Haven is the ultimate adult entertainment complex in Vancouver that aims to provide adults with a dynamic space to relax and pursue a range of interests under one roof. This includes fine dining, exciting game facilities that are cutting-edge with technology, live music from different talented local and regional artists, and restful relaxation areas with luxurious amenities. This adult pool party is a pilot program to introduce the social and entertainment offerings of Harmony Haven to a specific audience and to gear up the excitement towards the full launch of the venue. By showing the venue's potential to organize energetic social gatherings, the event would help place Harmony Haven as one of the prime places for future events and establish a loyal customer base.
