@@ -9,11 +9,7 @@ Siddheesh Vyas (2242827)
 Akinbusuyi Helen (2115754)
 Shafagh Khani (2019342)
 Harshit Budhiraja (2232952)
-
-University Canada West 
-MGMT 640(Project Management)-44
-Professor Ali Hassanlou
-June 21, 2024
+``Date: June 21, 2024
 
 
  
