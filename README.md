@@ -85,46 +85,70 @@ REFERENCES	15
 
 Energetic Live DJ
 
-A good DJ will create a lively musical atmosphere, keeping guests active and dancing throughout the event. The choice of the DJ should meet the interests of the target audience, including possibly popular remixes, dance floor classics, and upbeat hits of the day. Live music brings energy to the event, energizing each person and promoting interaction with other participants.
+ A good DJ will create a lively musical atmosphere, keeping guests active and dancing throughout the event. The choice of the DJ should meet the interests of the target audience, including possibly popular remixes, dance floor classics, and upbeat hits of the day. Live music brings energy to the event, energizing each person and promoting interaction with other participants.
 
 Inviting Bar Service
-A well-stocked bar, consisting of drinks—both alcoholic and non-alcoholic—will be sure to meet the demands of a guest who comes to quench his or her thirst and satisfy their varied tastes. The selection can be done from the popular cocktails made with premium ingredients and craft beers that represent brews of Vancouver, non-alcoholic drinks, and mocktails, refreshers, juices, and bottled water. This caters to more people and ensures that everyone has tasty refreshments for the rest of the evening.
+
+ A well-stocked bar, consisting of drinks—both alcoholic and non-alcoholic—will be sure to meet the demands of a guest who comes to quench his or her thirst and satisfy their varied tastes. The selection can be done from the popular cocktails made with premium ingredients and craft beers that represent brews of Vancouver, non-alcoholic drinks, and mocktails, refreshers, juices, and bottled water. This caters to more people and ensures that everyone has tasty refreshments for the rest of the evening.
 
 Poolside Relaxation
-Unimpeded access to the pool area allows attendees to cool off, socialize by the water, or simply soak up the vibrant atmosphere. Beautiful poolside furniture—loungers, cabanas—can augment the experience and have guests relax and socialize. This results in a multi-dimensional environment whereby guests can participate in different activities or simply relax in a fashionable and comfortable set-up.
+
+ Unimpeded access to the pool area allows attendees to cool off, socialize by the water, or simply soak up the vibrant atmosphere. Beautiful poolside furniture—loungers, cabanas—can augment the experience and have guests relax and socialize. This results in a multi-dimensional environment whereby guests can participate in different activities or simply relax in a fashionable and comfortable set-up.
 A high-level timeline on planning and execution will be presented for smooth and memorable activities for all attendees. 
 
 
-INTRODUCTION
-Harmony Haven (Concept)
-Harmony Haven is the ultimate adult entertainment complex in Vancouver that aims to provide adults with a dynamic space to relax and pursue a range of interests under one roof. This includes fine dining, exciting game facilities that are cutting-edge with technology, live music from different talented local and regional artists, and restful relaxation areas with luxurious amenities. This adult pool party is a pilot program to introduce the social and entertainment offerings of Harmony Haven to a specific audience and to gear up the excitement towards the full launch of the venue. By showing the venue's potential to organize energetic social gatherings, the event would help place Harmony Haven as one of the prime places for future events and establish a loyal customer base.
-Adult Pool Party Event (Overview)
-The adult pool party is a ticketed event designed especially for guests 19 and above to enjoy socializing with friends, making new acquaintances, and getting lost in the energetic beats of a live DJ, all while lounging around the pool in style. This sets Harmony Haven as a prime destination point for social gatherings and a point of visit for Vancouver nightlife. 
+**INTRODUCTION**
+
+**Harmony Haven (Concept)**
+
+ Harmony Haven is the ultimate adult entertainment complex in Vancouver that aims to provide adults with a dynamic space to relax and pursue a range of interests under one roof. This includes fine dining, exciting game facilities that are cutting-edge with technology, live music from different talented local and regional artists, and restful relaxation areas with luxurious amenities. This adult pool party is a pilot program to introduce the social and entertainment offerings of Harmony Haven to a specific audience and to gear up the excitement towards the full launch of the venue. By showing the venue's potential to organize energetic social gatherings, the event would help place Harmony Haven as one of the prime places for future events and establish a loyal customer base.
+
+**Adult Pool Party Event (Overview)**
+
+ The adult pool party is a ticketed event designed especially for guests 19 and above to enjoy socializing with friends, making new acquaintances, and getting lost in the energetic beats of a live DJ, all while lounging around the pool in style. This sets Harmony Haven as a prime destination point for social gatherings and a point of visit for Vancouver nightlife. 
  
-PROJECT SCOPE STATEMENT (APPENDIX A)
-Objectives
+
+**PROJECT SCOPE STATEMENT (APPENDIX A)**
+
+**Objectives**
+
 1.	To establish Harmony Haven as a leading entertainment destination for adults in Vancouver.
 2.	To curate a fun and social gathering experience with live DJ music, refreshing drinks, and pool access.
 3.	To generate positive brand awareness and position Harmony Haven as the go-to location for future social events.
+
 Deliverables
+
 1.	A successful and well-attended pool party event.
 2.	Positive guest feedback and reviews through online platforms and surveys.
 3.	Increased brand awareness for Harmony Haven measured through social media engagement and website traffic.
 Time Estimation
-1.	Venue Preparation:
-2 weeks
+
+**1.	Venue Preparation:
+2 weeks**
+
 Reasoning: Setting up the venue requires several detailed tasks such as setting up poolside furniture, installing lights, and installing sound systems. Two weeks gives ample time to plan and execute them diligently, ensuring detailed attention and quality. It also allows for contingencies in case any challenges or changes become necessary during the setup process. Furthermore, setting time apart guarantees that by the time the event comes around, the place will have been fully prepared and made visually appealing for the guests.
-2.	Marketing and Promotion:
-4 weeks
+
+**2.	Marketing and Promotion:
+4 weeks**
+
 Reasoning: Effective marketing campaigns require careful planning, coordination, and execution. Four weeks allows time to strategize, create compelling content, and execute multi-channel marketing initiatives. It allows for proper research and targeting of demographics or interest groups to help achieve reach and engagement. In addition, a longer timeframe provides room for adjustments and optimizations based on feedback and performance metrics that help ensure the effectiveness of marketing efforts in driving attendance to the event.
+
 3.	Coordination of Entertainment:
 3 weeks
+
 Reasoning: Suitable entertainment, such as a DJ or live performers, requires research, negotiation, and logistical coordination. Three weeks is enough time to identify potential options for entertainment, negotiate contracts, and finalize details. It allows one to be efficient yet thorough in ensuring appropriate entertainment is sourced within a reasonable amount of time. Further, the allocation of time for coordination of entertainment allows sufficient time for scheduling and appropriately slotting the entertainment into the overall program for the event.
-4.	Staffing and Logistics:
-2 weeks
-Reasoning: Recruiting, training, and scheduling event staff are important tasks that require care in planning and coordinating. Two weeks will provide enough time for posting job openings, interviewing, and onboarding the staff hired. It also allows for the holding of wide-ranging training sessions to ensure that staff members are adequately prepared to carry out roles effectively. Another addition to the inclusion of a specific time slot for staffing and logistics would be ensuring that all persons required at the venue have been employed and adequately trained well before the event to reduce any last-minute staffing issues and logistical challenges. Security and Safety Measures: 1-week 
+
+**4.	Staffing and Logistics:
+2 weeks**
+
+Reasoning: Recruiting, training, and scheduling event staff are important tasks that require care in planning and coordinating. Two weeks will provide enough time for posting job openings, interviewing, and onboarding the staff hired. It also allows for the holding of wide-ranging training sessions to ensure that staff members are adequately prepared to carry out roles effectively. Another addition to the inclusion of a specific time slot for staffing and logistics would be ensuring that all persons required at the venue have been employed and adequately trained well before the event to reduce any last-minute staffing issues and logistical challenges. 
+
+**Security and Safety Measures: 1-week** 
+
 Reasoning: Implementing safety protocols and hiring licensed security professionals are of prime importance to the assurance of guests' well-being and a secure environment. One week will be enough time to assess possible safety risks, come up with the safety plans, and recruit qualified security personnel. This provides ample time to co-ordinate with security agencies or vendors and finalize security arrangements for the event. Furthermore, providing an express time frame for security and safety would demonstrate some proactivity in the risk management process and reiterate commitments to guest safety and security.
-Cost Estimation
+
+**Cost Estimation**
+
 Due to factors such as location, size, amenities, and exclusivity. A venue that comes with a poolside area, sufficient space for guests, and amenities and facilities for hosting an event would command a higher rental fee. Additionally, the number of event venues and the demand for such venues in the area might also drive up the prices of rentals. That is why the budget allocation of $10,000 will be able to secure a desirable place that would fit the event's theme and atmosphere.
 Setup costs would include the cost of the actual setup of the venue with furniture, lighting, sound, and other elements of decoration that may enhance the ambience of the place and the mood of its guests. This may include the cost of labor for the setup and installation. That is why the budget allocation would provide enough funds to set up and furnish the place properly, decorate it with elements that would complement its design, and equip it with the necessary and appropriate amenities that would increase its value and help in its aesthetic and functional appeal, thus contributing to giving guests a memorable experience. Marketing and Promotion: $5,000
 Advertising Costs
